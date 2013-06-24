@@ -273,7 +273,7 @@
     <Content Include="Form.html" />
     <Content Include="icon.html" />
     <Content Include="Images\favicon.ico" />
-    <Content Include="Default.html" />
+    <Content Include="Index.html" />
     <Content Include="Images\Logo.png" />
     <Content Include="login.html" />
     <Content Include="Mobile.html" />
